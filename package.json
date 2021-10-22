@@ -1,0 +1,18 @@
+{
+  "name": "mirror-2021",
+  "version": "1.0.0",
+  "description": "My mirror/telescope making adventures",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": ["telescope", "mirror", "diy", "blog"],
+  "author": {
+    "name": "Marcel van den Bosch",
+    "email": "m.v.d.bosch@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.26"
+  }
+}
