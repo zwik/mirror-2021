@@ -1,4 +1,4 @@
-# Slijpen van een 10" spiegel
+# Slijpen Van Een 10" Spiegel
 
 Hier ga ik mijn avonturen delen van hoe ik een 10" spiegel ga slijpen. Klik op de linkjes hieronder hoe ik per dag omschrijf wat er gebeurd is.
 | omschrijving    | link                          |

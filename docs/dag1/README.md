@@ -1,4 +1,4 @@
-# Het begin
+# Het Begin
 
 Haast heb ik nooit gehad met de start van de bouw van de dobson, of sterker nog, het slijpprocess van de spiegel. Ik heb het redelijk druk en er is geen haast bij. Yigal en ik hebben ondertussen wel een aantal keer gesproken over het slijpen van spiegel en lenzen en er waren wat ons betreft drie opties. Bij Yigal thuis, maar bij gebrek aan ruimte was dat geen optie. Een andere optie was Almere bij Jan van Gastel. Dit is voor ons best een eindje weg en werd op de lange baan geschoven. De derde optie was bij Bram Goossens in Vorselaar, een klein plaatje ten zuid westen van Turnhout. Yigal had voor de zomermaanden al eens contact met Bram en er werd afgesproken om na de zomermaanden nog eens contact te zoeken. zo geschiede en er werd een eerste afspraak gemaakt op 21 oktober 2021.
 
@@ -10,7 +10,7 @@ Daarna gingen Bram en Johny aan de slag om een lade, of schuif zoals ze in Belgi
 ![Geschuurde randjes](./IMG_2526.jpg)
 
 Na het schuren van de randjes zijn we gaan bepalen welke kant de onderkant en welke kant de spiegelkant gaat worden van de blank. Dit hebben we gedaan met poeder 320 door de blank aan beide kanten te gaan slijpen. In mijn geval zag je aan de ene kant een soort van vleugels aan twee overstaande zijkant. Aan de andere kant van de plank was dit patroon veel platter maar tevens een kwartslag gedraait. Dit komt vaker voor. De kant welke het meest vlak oogt word de onderkant van de spiegel. Dit vlak maken van de blank voordat we gaan uitdiepen met een grovere poeder moet ervoor zorgen dat er geen/minimaal astigmatisme in de spiegel komt. Een voorbereidende stap dus. Het is belangrijk om de achterkant vlak te maken zodat de druk dus later overal gelijk is. Het is tevens niet mogelijk om astigmatisme te corrigeren omdat dat voor elke spiegel anders is.
-![Aandacht luisteren](./646b7b02-52ca-4352-a317-32b5c81357f4.jpg)
+![Aandachtig luisteren](./646b7b02-52ca-4352-a317-32b5c81357f4.jpg)
 
 Het slijpen an sich werkt behoorlijk therapeutisch. Je krijgt een bepaalde rust in je hoofd en het is leuk om te doen. Wat me opviel is dat je redelijk snel slijppoeder opnieuw moet toevoegen met wat water omdat het slijppoeder snel "op" is. Het is heel veel op gevoel. Belangrijke zaken zijn dat je die blank niet onder een hoek van de tool afhaald, om verkleving door lucht of waterdruk te voorkomen. Ook hebben we gemeten of er vooruitgang is met het vlak maken van de achterkant en dat was het geval. Het vasthouden van de blank is ook nog een dingetje. Je wilt niet met platte handen de blank vasthouden, dit is omdat je handen warm zijn en warmte introduceert spanningen. Beter houd je met slechts je vingers de rand van de blank vast. Nog beter zou een tool zijn waarin de blank zit zodat er helemaal geen warmteoverdracht plaats kan vinden.
 ![Zelf slijpen](./54ed7f28-6203-48cd-8112-f0eaaa729728.jpg)
