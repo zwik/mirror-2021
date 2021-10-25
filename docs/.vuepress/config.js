@@ -5,17 +5,17 @@ module.exports = {
     sidebar: [
       // SidebarItem
       {
-        text: 'Slijpen van een 10" spiegel',
+        text: 'Slijpen Van Een 10" Spiegel',
         link: '/',
         children: [
           // SidebarItem
           {
-            text: 'Aankoop spiegel',
+            text: 'Aankoop Spiegel',
             link: '/aankoop',
             children: [],
           },
           {
-            text: 'Het begin',
+            text: 'Het Begin',
             link: '/dag1',
             children: [],
           },
