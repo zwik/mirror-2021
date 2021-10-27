@@ -1,4 +1,4 @@
-# Aankoop 10" Blank
+# Aankoop 10 inch Blank
 
 Al een tijdje loop ik rond met de gedachte ooit een mooie reisdobson te bouwen. De kofferdobs van Roel zijn zo ontzettend mooi, dat wilde ik ook wel eens een keer bouwen. Het is daarnaast natuurlijk leuk om zo'n compacte dobson mee op reis te nemen en zo op locatie van de mooie nachtelijke hemel te genieten.
 

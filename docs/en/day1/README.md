@@ -1,0 +1,22 @@
+# The Beginning
+
+Never was I in a hurry with the start of my dobson or even with the start of grinding that blank I bought. I'm quite a busy person and there's just no pressure. My friend and I talked about making mirrors and lenses and in our opionin there were three options. At my friends location, but with the lack of space that wasn't really an option. Another option was in Almere with Jan van Gastel. For us this is quite the distance so we put that on hold. The third options was at Bram Goossens' place in Vorselaar. A small place just south west of Turnhout (Belgium). My friend and I had contact with Bram before the summer months and we agreed that we would contact him again after the summer months. So that happened and we made our first appointment on Oktober 21, 2021.
+
+My Friend and I went to Bram on the set date in Vorselaar. When we arrived we introduced eachother, told our plans and there was a great chemistry between us right of the bat which is great! After some talking I showed the blank and all other materials to everyone that was there. Next to my friend Yigal and Bram, there were also Johny and Rudy. We unpacked the box with materials and that was the moment we started.
+
+I was asked if there were any tensionings in the blank. Preferably you don't want any tensions in your blank. With a piece of polarized glass, for example with the polarizing filter of a camera you can view the tensions. We watched at the blank against a white background and we didn't see any tensions. Because I don't know how tensions do look like, Bram grabbed the lid of cooking pot and then you can clearly see a difference in colors where tensions are. where the colors are "flat" there's no tension and where the color are darker there's more tension.
+
+After that Bram and Johny went to clean a drawer so I can put my stuff in. They also tried to find a matching tool some anti slip mat and a turning table to work on, everything went very fast at that moment. In between Johny came with a sort of scouring pad but made of diamont like you see on a drill as well sometimes. This was pad was needed to clean up the edges of the mirror (facet). I grinded of the sharp edges under running water.
+![Grinded edges](/images/IMG_2526.jpg)
+
+after grinding the edges we went to determine what that back and what would be the mirror side of the blank. We started grinding both sides of the blank with powder 320. In my case you could some form of wings on one side and on the other side the pattern was turned but also much more flat. The most flat side will be the back because it's less work. Making sure the back of the mirror is flat is important because otherwise you can easily introduce astigmatism and that is something we don't want.
+![Listening carefully](/images/646b7b02-52ca-4352-a317-32b5c81357f4.jpg)
+
+The grinding is very peaceful and it is fun to do. What I noticed is that I need to add new powder and water relatively quick because the old powder doesn't grind anymore. Much of the grinding is a matter of feeling. When removing the blank from the tool it is important you don't create an angle when pully the blank off. You don't want to hold the blank with flat hands either because your hands are warm and you could introduce tensions. It's better to just hold the blank with the tips of your fingers on the side of the blank or even better with a tool so no heat exchange can happen.
+![Grinding](/images/54ed7f28-6203-48cd-8112-f0eaaa729728.jpg)
+
+We also did a graphite test. You can see clearly where there is contact and no contact with the tool. It appears that the some part of the tool had some dropped off edges. This doesn't really matter as it'll solve itself by continueing the grind.
+
+In the end I've grinded effectively for about an hour to flatten the back of the blank. We marked both the blank and tool so we can see that those two sides need to touch next time. After all the work we started to clean up. Grinding is a dirty matter because you need quite a lot of water and in combination with the grinding powder it becomes kind of muddy. Cleaning is very important because eventually we will use finer grained powder and the less fine powder will then scratch the blank, which we don't want. Next Thursday I'm planning to to back to Vorselaar to continue to flatten the back of the blank.
+![The back](/images/IMG_2527.jpg)
+![Blank and tool with marking](/images/IMG_2528.jpg)
