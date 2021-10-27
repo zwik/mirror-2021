@@ -2,6 +2,11 @@
   "name": "mirror-2021",
   "version": "1.0.0",
   "description": "My mirror/telescope making adventures",
+  "homepage": "https://telescope-making.netlify.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zwik/mirror-2021.git"
+  },
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
