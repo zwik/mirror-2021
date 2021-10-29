@@ -1,7 +1,8 @@
 # Slijpen Van Een 10 inch Spiegel
 
 Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik op de linkjes hieronder hoe ik per dag omschrijf wat er gebeurd is.
-| omschrijving    | link                          |
+| Omschrijving    | Link                          |
 | --------------- | ----------------------------- |
 | Aankoop Spiegel | [Aankoop Spiegel](aankoop.md) |
-| Het Begin       | [Dag 1](./dag1/)     |
+| Het Begin       | [Dag 1](./dag1/)              |
+| Vlak Maken      | [Dag 2](./dag2/)              |

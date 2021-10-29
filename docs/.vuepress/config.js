@@ -23,12 +23,14 @@ module.exports = {
               {
                 text: 'Aankoop Spiegel',
                 link: '/aankoop',
-                children: [],
               },
               {
                 text: 'Het Begin',
                 link: '/dag1',
-                children: [],
+              },
+              {
+                text: 'Vlak Maken',
+                link: '/dag2',
               },
             ],
           },
@@ -44,12 +46,14 @@ module.exports = {
               {
                 text: 'Buying A Blank',
                 link: '/en/purchase',
-                children: [],
               },
               {
                 text: 'The Beginning',
                 link: '/en/day1',
-                children: [],
+              },
+              {
+                text: 'Flattening',
+                link: '/en/day2',
               },
             ],
           },

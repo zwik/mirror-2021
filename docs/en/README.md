@@ -4,4 +4,5 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | description     | link                          |
 | --------------- | ----------------------------- |
 | Purchase        | [Blank Purchase](purchase.md) |
-| The Beginning   | [Day 1](./day1/)     |
+| The Beginning   | [Day 1](./day1/)              |
+| Flattening      | [Day 2](./day2/)              |
