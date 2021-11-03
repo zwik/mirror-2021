@@ -12,6 +12,8 @@ module.exports = {
     },
   },
   themeConfig: {
+    repo: 'zwik/mirror-2021',
+    docsDir: 'docs',
     locales: {
       '/': {
         selectLanguageName: 'Dutch',
