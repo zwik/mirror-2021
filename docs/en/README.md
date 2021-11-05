@@ -6,3 +6,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Purchase        | [Blank Purchase](purchase.md) |
 | The Beginning   | [Day 1](./day1/)              |
 | Flattening      | [Day 2](./day2/)              |
+| Is It Flat?     | [Day 3](./day3/)              |

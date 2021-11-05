@@ -34,6 +34,10 @@ module.exports = {
                 text: 'Vlak Maken',
                 link: '/dag2',
               },
+              {
+                text: 'Is Het Vlak?',
+                link: '/dag3',
+              },
             ],
           },
         ],
@@ -56,6 +60,10 @@ module.exports = {
               {
                 text: 'Flattening',
                 link: '/en/day2',
+              },
+              {
+                text: 'Is It Flat?',
+                link: '/en/day3',
               },
             ],
           },

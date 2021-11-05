@@ -1,0 +1,10 @@
+# Is Het Vlak?
+![Begin Dag 3](/images/IMG_2624.jpg)
+Dit is het hoe de spiegel er aan het begin van de avond uit ziet. Aan de randen valt het nog wat af, maar dat zou aan het eind van de avond ver weg moeten zijn. Daarom ben ik vol goede moed begonnen met slijpen met poeder 320, zoals de vorige keren.
+
+Na een aantal ronden geslepen te hebben was het tijd om even op te ruimen. Na de spiegel en de tool schoon gemaakt te hebben zijn we eens gaan meten met een sferometer hoever we er nog vanaf zijn voordat de spiegel mooi vlak is. De sferometer sloeg behoorlijk uit, dat is niet goed. We hebben toen gekeken door een lange schuifmaat op het glas te leggen en wat meetstrips. Het bleek dat de randen nog ruim een halve milimeter afhingen, dat is veel. Te veel zelfs om met poeder 320 allemaal weg te halen. Ook hebben we de andere kant gemeten omdat we daarvan dachten dat die minder vlak zou zijn. Hier viel ons hetzelfde op, maar net wat minder.
+
+Uiteindelijk hebben we besloten om met poeder 80 aan de slag te gaan en beide kanten van de spiegel te gaan slijpen, kijken welke als eerst vlak word. Twee keer aan de ene kant van de spiegel, daarna twee keer aan de andere kant van de spiegel. Daarna tool en spiegel omdraaien zodat het vlak blijft en dit een keer of tien herhalen. Poeder 80 maakt een behoorlijk stuk meer herrie dan poeder 320 heb ik gemerkt! Dit draaien hebben we zo drie keer herhaald en tussendoor hebben we uiteraard gemeten of het het juiste effect heeft.
+
+Aan het eind van de avond zijn beide kanten van de spiegel vlakker dan hoe we gestart waren, en zijn we weer wijzer geworden. Meten is weten! De kant welke we het meest met poeder 320 geslepen hebben lijkt nu minder vlak dan we dachten ten op zichte van de andere kant. Volgende week zullen we zien welke kant het eerst vlak is.
+![Einde Dag 3](/images/IMG_2625.jpg)
