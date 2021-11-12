@@ -38,6 +38,10 @@ module.exports = {
                 text: 'Is Het Vlak?',
                 link: '/dag3',
               },
+              {
+                text: 'Eindelijk Vlak',
+                link: '/dag4',
+              }
             ],
           },
         ],
@@ -65,6 +69,10 @@ module.exports = {
                 text: 'Is It Flat?',
                 link: '/en/day3',
               },
+              {
+                text: 'Finally Flat',
+                link: '/en/day4',
+              }
             ],
           },
         ],

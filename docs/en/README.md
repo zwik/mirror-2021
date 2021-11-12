@@ -7,3 +7,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | The Beginning   | [Day 1](./day1/)              |
 | Flattening      | [Day 2](./day2/)              |
 | Is It Flat?     | [Day 3](./day3/)              |
+| Finally Flat    | [Day 4](./day4/)              |
