@@ -41,7 +41,11 @@ module.exports = {
               {
                 text: 'Eindelijk Vlak',
                 link: '/dag4',
-              }
+              },
+              {
+                text: 'Begonnen Met Uitdiepen',
+                link: '/dag5',
+              },
             ],
           },
         ],
@@ -72,7 +76,11 @@ module.exports = {
               {
                 text: 'Finally Flat',
                 link: '/en/day4',
-              }
+              },
+              {
+                text: 'Started Hogging',
+                link: '/en/day5',
+              },
             ],
           },
         ],
