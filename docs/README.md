@@ -9,3 +9,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Is Het Vlak?           | [Dag 3](./dag3/)              |
 | Eindelijk Vlak         | [Dag 4](./dag4/)              |
 | Begonnen Met Uitdiepen | [Dag 5](./dag5/)              |
+| Korte Avond            | [Dag 6](./dag6/)              |

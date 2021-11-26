@@ -1,0 +1,2 @@
+# Korte Avond
+En een korte avond was het. Aangekomen was iedereen al verzameld rondom een nieuwe pushto dobson. Zoals de titel doet vermoeden, het was een kort avond. Ik ben verder gegaan met de slag zoals vorige week en ben 0,2mm naar beneden gegaan. Hopelijk is er volgende week meer tijd!

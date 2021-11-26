@@ -1,0 +1,2 @@
+# Short Evening
+And a short evening it was. When I arrived everyone gathered around a new pushto dobson. Like the title suggests, it was a short evening. I continued using the same stroke as last week and I hogged out an extra 0.2mm. Hopefully I've a bit more time next week.

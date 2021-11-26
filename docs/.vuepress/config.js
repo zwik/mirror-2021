@@ -46,6 +46,10 @@ module.exports = {
                 text: 'Begonnen Met Uitdiepen',
                 link: '/dag5',
               },
+              {
+                text: 'Korte Avond',
+                link: '/dag6',
+              },
             ],
           },
         ],
@@ -80,6 +84,10 @@ module.exports = {
               {
                 text: 'Started Hogging',
                 link: '/en/day5',
+              },
+              {
+                text: 'Short Evening',
+                link: '/en/day6',
               },
             ],
           },
