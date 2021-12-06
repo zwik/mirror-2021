@@ -10,3 +10,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Finally Flat    | [Day 4](./day4/)              |
 | Started Hogging | [Day 5](./day5/)              |
 | Short Evening   | [Day 6](./day6/)              |
+| Going Deeper    | [Day 7](./day7/)              |

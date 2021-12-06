@@ -50,6 +50,10 @@ module.exports = {
                 text: 'Korte Avond',
                 link: '/dag6',
               },
+              {
+                text: 'Verder De Diepte In',
+                link: '/dag7',
+              },
             ],
           },
         ],
@@ -88,6 +92,10 @@ module.exports = {
               {
                 text: 'Short Evening',
                 link: '/en/day6',
+              },
+              {
+                text: 'Going Deeper',
+                link: '/en/day7',
               },
             ],
           },
