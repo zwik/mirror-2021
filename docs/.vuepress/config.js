@@ -54,6 +54,10 @@ module.exports = {
                 text: 'Verder De Diepte In',
                 link: '/dag7',
               },
+              {
+                text: 'Correctie Van De Curve',
+                link: '/dag8',
+              }
             ],
           },
         ],
@@ -97,6 +101,10 @@ module.exports = {
                 text: 'Going Deeper',
                 link: '/en/day7',
               },
+              {
+                text: 'Correction Of The Curve',
+                link: '/en/day8',
+              }
             ],
           },
         ],
