@@ -57,7 +57,11 @@ module.exports = {
               {
                 text: 'Correctie Van De Curve',
                 link: '/dag8',
-              }
+              },
+              {
+                text: 'Pijn',
+                link: '/dag9',
+              },
             ],
           },
         ],
@@ -104,7 +108,11 @@ module.exports = {
               {
                 text: 'Correction Of The Curve',
                 link: '/en/day8',
-              }
+              },
+              {
+                text: 'Pain',
+                link: '/en/day9/',
+              },
             ],
           },
         ],

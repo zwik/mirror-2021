@@ -12,3 +12,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Korte Avond            | [Dag 6](./dag6/)              |
 | Verder De Diepte In    | [Dag 7](./dag7/)              |
 | Correctie Van De Curve | [Dag 8](./dag8/)              |
+| Pijn                   | [Dag 9](./dag9/)              |
