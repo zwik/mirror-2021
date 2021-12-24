@@ -12,4 +12,5 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Short Evening           | [Day 6](./day6/)              |
 | Going Deeper            | [Day 7](./day7/)              |
 | Correction Of The Curve | [Day 8](./day8/)              |
-| Pain                    | [Day 9](./day9/)              | 
+| Pain                    | [Day 9](./day9/)              |
+| New Table               | [Day 10](./day10/)            |

@@ -62,6 +62,10 @@ module.exports = {
                 text: 'Pijn',
                 link: '/dag9',
               },
+              {
+                text: 'Nieuwe Tafel',
+                link: '/dag10',
+              },
             ],
           },
         ],
@@ -111,7 +115,11 @@ module.exports = {
               },
               {
                 text: 'Pain',
-                link: '/en/day9/',
+                link: '/en/day9',
+              },
+              {
+                text: 'New Table',
+                link: '/en/day10',
               },
             ],
           },

@@ -1,0 +1,6 @@
+# New Table
+This time I'm grinding on a Wednesday because I don't have time on Thursday. When I arrived I noticed they cleaned up the room. There was a a bit more room which is nice. The table that was between the mess previously was now near the table I worked on before. They told me that this new table is a bit lower so it should be a bit easier for me to work on. And right they were!
+
+After a couple of wets we measured what the progress was. They measurement went fine but we noticed that the mirror isn't spherical. This is most likely due to the fact that I apply pressure wrong when grinding on the sides. I most likely add more pressure to the side instead of the center because I'm afraid the mirror will go over the edge. I can solve this by putting a finger under the mirror while grinding on the sides. Bram took over and started to correct the side of the mirror and tool.
+
+We also did a couple of pencil tests and you can then clearly see that the sides of the mirror are too high because there the pencil marks are gone. This is also clearly visible using the spherometer. We also measured the tool and the tool now looks perfect because it measured the same values on the whole surface. Eventually I ended up at a depth of 2,35mm. Next week I will probably be very close to the goal depth if 2,7904mm.
