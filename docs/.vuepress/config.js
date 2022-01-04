@@ -66,6 +66,10 @@ module.exports = {
                 text: 'Nieuwe Tafel',
                 link: '/dag10',
               },
+              {
+                text: 'Nog Een Correctie',
+                link: '/dag11',
+              },
             ],
           },
         ],
@@ -120,6 +124,10 @@ module.exports = {
               {
                 text: 'New Table',
                 link: '/en/day10',
+              },
+              {
+                text: 'Another Correction',
+                link: '/en/day11',
               },
             ],
           },
