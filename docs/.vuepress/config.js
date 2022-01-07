@@ -70,6 +70,10 @@ module.exports = {
                 text: 'Nog Een Correctie',
                 link: '/dag11',
               },
+              {
+                text: 'Nog Een Klein Stukje',
+                link: '/dag12',
+              },
             ],
           },
         ],
@@ -129,6 +133,10 @@ module.exports = {
                 text: 'Another Correction',
                 link: '/en/day11',
               },
+              {
+                text: 'Almost There',
+                link: '/en/day12'
+              }
             ],
           },
         ],
