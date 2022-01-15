@@ -74,6 +74,10 @@ module.exports = {
                 text: 'Nog Een Klein Stukje',
                 link: '/dag12',
               },
+              {
+                text: 'De Tweede Mijlpaal',
+                link: '/dag13',
+              },
             ],
           },
         ],
@@ -135,8 +139,12 @@ module.exports = {
               },
               {
                 text: 'Almost There',
-                link: '/en/day12'
-              }
+                link: '/en/day12',
+              },
+              {
+                text: 'The Second Milestone',
+                link: '/en/day13',
+              },
             ],
           },
         ],

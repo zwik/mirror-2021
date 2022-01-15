@@ -16,3 +16,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Nieuwe Tafel           | [Dag 10](./dag10/)            |
 | Nog Een Correctie      | [Dag 11](./dag11/)            |
 | Nog Een Klein Stukje   | [Dag 12](./dag12/)            |
+| De Tweede Mijlpaal     | [Dag 13](./dag13/)            |

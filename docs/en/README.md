@@ -16,3 +16,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | New Table               | [Day 10](./day10/)            |
 | Another Correction      | [Day 11](./day11/)            |
 | Almost There            | [Day 12](./day12/)            |
+| The Second Milestone    | [Day 13](./day13/)            |
