@@ -78,6 +78,10 @@ module.exports = {
                 text: 'De Tweede Mijlpaal',
                 link: '/dag13',
               },
+              {
+                text: 'Fijner Slijpen',
+                link: '/dag14',
+              },
             ],
           },
         ],
@@ -144,6 +148,10 @@ module.exports = {
               {
                 text: 'The Second Milestone',
                 link: '/en/day13',
+              },
+              {
+                text: 'Finer Grinding',
+                link: '/en/day14',
               },
             ],
           },
