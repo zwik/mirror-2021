@@ -18,3 +18,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Almost There            | [Day 12](./day12/)            |
 | The Second Milestone    | [Day 13](./day13/)            |
 | Finer Grinding          | [Day 14](./day14/)            |
+| Small Break             | [Day 15](./day15/)            |

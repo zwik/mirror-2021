@@ -82,6 +82,10 @@ module.exports = {
                 text: 'Fijner Slijpen',
                 link: '/dag14',
               },
+              {
+                text: 'Kleine Onderbreking',
+                link: 'dag15',
+              },
             ],
           },
         ],
@@ -152,6 +156,10 @@ module.exports = {
               {
                 text: 'Finer Grinding',
                 link: '/en/day14',
+              },
+              {
+                text: 'Small Break',
+                link: '/en/day15',
               },
             ],
           },
