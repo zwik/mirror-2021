@@ -84,11 +84,11 @@ module.exports = {
               },
               {
                 text: 'Kleine Onderbreking',
-                link: 'dag15',
+                link: '/dag15',
               },
               {
                 text: 'Vlakke Achterkant',
-                link: 'dag16',
+                link: '/dag16',
               },
             ],
           },
