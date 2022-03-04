@@ -86,6 +86,10 @@ module.exports = {
                 text: 'Kleine Onderbreking',
                 link: 'dag15',
               },
+              {
+                text: 'Vlakke Achterkant',
+                link: 'dag16',
+              },
             ],
           },
         ],
@@ -160,6 +164,10 @@ module.exports = {
               {
                 text: 'Small Break',
                 link: '/en/day15',
+              },
+              {
+                text: 'Flat Back',
+                link: '/en/day16',
               },
             ],
           },
