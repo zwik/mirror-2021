@@ -90,6 +90,10 @@ module.exports = {
                 text: 'Vlakke Achterkant',
                 link: '/dag16',
               },
+              {
+                text: 'Verder Met 180 En Inspectie',
+                link: '/dag17',
+              },
             ],
           },
         ],
@@ -168,6 +172,10 @@ module.exports = {
               {
                 text: 'Flat Back',
                 link: '/en/day16',
+              },
+              {
+                text: 'Continue With 180 And Inspection',
+                link: '/en/day17',
               },
             ],
           },
