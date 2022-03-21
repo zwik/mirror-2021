@@ -21,3 +21,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Kleine Onderbreking         | [Dag 15](./dag15/)            |
 | Vlakke Achterkant           | [Dag 16](./dag16/)            |
 | Verder Met 180 En Inspectie | [Dag 17](./dag17/)            |
+| 180 Klaar                   | [Dag 18](./dag18/)            |

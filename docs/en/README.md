@@ -20,4 +20,5 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Finer Grinding                   | [Day 14](./day14/)            |
 | Small Break                      | [Day 15](./day15/)            |
 | Flat Back                        | [Day 16](./day16/)            |
-| Continue With 180 And Inspection | [Day 17](./day17/)             |
+| Continue With 180 And Inspection | [Day 17](./day17/)            |
+| Finished 180                     | [Day 18](./day18/)            |

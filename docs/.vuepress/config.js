@@ -94,6 +94,10 @@ module.exports = {
                 text: 'Verder Met 180 En Inspectie',
                 link: '/dag17',
               },
+              {
+                text: '180 Klaar',
+                link: '/dag18',
+              },
             ],
           },
         ],
@@ -176,6 +180,10 @@ module.exports = {
               {
                 text: 'Continue With 180 And Inspection',
                 link: '/en/day17',
+              },
+              {
+                text: 'Finished 180',
+                link: '/en/day18',
               },
             ],
           },
