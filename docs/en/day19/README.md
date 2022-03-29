@@ -1,0 +1,2 @@
+# Correction 180
+Last week after measuring we noticed that I lost shape a bit so today I will be correcting that. I started with tool on top and make figure eight's. I've done this 3-4 wets after which I did mirror on top and also did about 3-4 wets while doing figure eights's. After measuring I was perfectly spherical again. Good news! Next week I can start using grit 320.

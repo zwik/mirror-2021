@@ -98,6 +98,10 @@ module.exports = {
                 text: '180 Klaar',
                 link: '/dag18',
               },
+              {
+                text: 'Correctie 180',
+                link: '/dag19',
+              },
             ],
           },
         ],
@@ -184,6 +188,10 @@ module.exports = {
               {
                 text: 'Finished 180',
                 link: '/en/day18',
+              },
+              {
+                text: 'Correction 180',
+                link: '/en/day19',
               },
             ],
           },
