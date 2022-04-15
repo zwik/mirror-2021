@@ -102,6 +102,10 @@ module.exports = {
                 text: 'Correctie 180',
                 link: '/dag19',
               },
+              {
+                text: 'Poeder 320',
+                link: '/dag20',
+              },
             ],
           },
         ],
@@ -192,6 +196,10 @@ module.exports = {
               {
                 text: 'Correction 180',
                 link: '/en/day19',
+              },
+              {
+                text: 'Grit 320',
+                link: '/en/day20',
               },
             ],
           },
