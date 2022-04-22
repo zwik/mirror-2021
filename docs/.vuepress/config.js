@@ -106,6 +106,10 @@ module.exports = {
                 text: 'Poeder 320',
                 link: '/dag20',
               },
+              {
+                text: 'Laatste Putje',
+                link: '/dag21',
+              },
             ],
           },
         ],
@@ -200,6 +204,10 @@ module.exports = {
               {
                 text: 'Grit 320',
                 link: '/en/day20',
+              },
+              {
+                text: 'Last Pit',
+                link: '/en/day21',
               },
             ],
           },
