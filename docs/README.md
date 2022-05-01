@@ -25,3 +25,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Correctie 180               | [Dag 19](./dag19/)            |
 | Poeder 320                  | [Dag 20](./dag20/)            |
 | Laatste Putje               | [Dag 21](./dag21/)            |
+| Putje Weg                   | [Dag 22](./dag22/)            |

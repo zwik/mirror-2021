@@ -25,3 +25,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Correction 180                   | [Day 19](./day19/)            |
 | Grit 320                         | [Day 20](./day20/)            |
 | Last Pit                         | [Day 21](./day21/)            |
+| Pit Gone                         | [Day 22](./day22/)            |

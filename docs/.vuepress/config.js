@@ -110,6 +110,10 @@ module.exports = {
                 text: 'Laatste Putje',
                 link: '/dag21',
               },
+              {
+                text: 'Putje Weg',
+                link: '/dag22',
+              },
             ],
           },
         ],
@@ -208,6 +212,10 @@ module.exports = {
               {
                 text: 'Last Pit',
                 link: '/en/day21',
+              },
+              {
+                text: 'Pit Gone',
+                link: '/en/day22',
               },
             ],
           },
