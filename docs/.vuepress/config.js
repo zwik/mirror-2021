@@ -1,3 +1,5 @@
+const { defaultTheme, viteBundler } = require('vuepress')
+
 module.exports = {
   locales: {
     '/': {
@@ -11,7 +13,7 @@ module.exports = {
       description: 'Making A 10 inch Mirror',
     },
   },
-  themeConfig: {
+  theme: defaultTheme({
     repo: 'zwik/mirror-2021',
     docsDir: 'docs',
     locales: {
@@ -222,5 +224,8 @@ module.exports = {
         ],
       },
     },
-  },
+  }),
+  bundler: viteBundler({
+    // vite bundler config
+  })
 }
