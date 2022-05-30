@@ -116,6 +116,10 @@ module.exports = {
                 text: 'Putje Weg',
                 link: '/dag22',
               },
+              {
+                text: 'Kurk',
+                link: '/dag23',
+            },
             ],
           },
         ],
@@ -218,6 +222,10 @@ module.exports = {
               {
                 text: 'Pit Gone',
                 link: '/en/day22',
+              },
+              {
+                text: 'Cork',
+                link: '/en/day23',
               },
             ],
           },

@@ -1,0 +1,4 @@
+# Cork
+Tonight is a short evening and I'm mostly working alone. I continue with the 15 micron powder and occasionally switch between a straight stroke and a figure eight stroke. Because the powder is in a solution I can work with it longer and there is no need to clean that often anymore.
+
+After griding for about an hour I felt something, I think I slightly touched the cork or maybe even the screw that holds the cork in place. The cork is used to hold the tool in place. I rinsed the tool and mirror and dried them and inspected the mirror. Unfortunately I scratched the surface of the mirror. I think the damage is minor but because both Bram and Johnny are not here at the moment I'm not entirely sure. Next week I'll try to fix the scratch.
