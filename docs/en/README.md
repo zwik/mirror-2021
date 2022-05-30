@@ -27,3 +27,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Last Pit                         | [Day 21](./day21/)            |
 | Pit Gone                         | [Day 22](./day22/)            |
 | Cork                             | [Day 23](./day23/)            |
+| Scratch Removal                  | [Day 24](./day24/)            |

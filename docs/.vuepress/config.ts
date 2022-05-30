@@ -119,7 +119,11 @@ module.exports = {
               {
                 text: 'Kurk',
                 link: '/dag23',
-            },
+              },
+              {
+                text: 'Kras Reparatie',
+                link: '/dag24',
+              },
             ],
           },
         ],
@@ -226,6 +230,10 @@ module.exports = {
               {
                 text: 'Cork',
                 link: '/en/day23',
+              },
+              {
+                text: 'Scratch Removal',
+                link: '/en/day24',
               },
             ],
           },
