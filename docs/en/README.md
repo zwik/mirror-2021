@@ -28,3 +28,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Pit Gone                         | [Day 22](./day22/)            |
 | Cork                             | [Day 23](./day23/)            |
 | Scratch Removal                  | [Day 24](./day24/)            |
+| Another Scratch                  | [Day 25](./day25/)            |

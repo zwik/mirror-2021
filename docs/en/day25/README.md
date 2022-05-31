@@ -1,0 +1,4 @@
+# Another Scratch
+Last time I removed the scratch and finished the mirror with 15 micron powder. Today I can continue with 9 micron powder with is equal to 600 grit. I started with cleaning both the tool and mirror while Johnny created the new solution with the powder, demineralized water and glycerine. Glycerine is added so that tool and mirror don't stick so well together.
+
+I grinded the whole evening, which is about two hours and halfway in between I cleansed the tool and mirror. I used a straigt and figure eight stroke alternativly. The grinding went well untill the last minute and then suddenly I felt something. As soon as I felt something I cleansed both mirror and tool because it was the end of the evening anyway. At inspection I found out I indeed made quite a big scratch. Next time I will correct that hopefully.

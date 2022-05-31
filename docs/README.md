@@ -28,3 +28,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Putje Weg                   | [Dag 22](./dag22/)            |
 | Kurk                        | [Dag 23](./dag23/)            |
 | Kras Reparatie              | [Dag 24](./dag24/)            |
+| Weer Een Kras               | [Dag 25](./dag25/)            |

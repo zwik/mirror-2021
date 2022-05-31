@@ -1,0 +1,4 @@
+# Weer Een Kras
+Vorige keer heb ik kras verwijderd en en spiegel met 15 micron poeder afgemaakt. Vandaag mag ik verder met 9 micron poeder wat ongeveer gelijk is aan grit 600. Begonnen met het goed schoonmaken van tool en spiegel terwijl Johnny de oplossing maakt met het poeder, gedemeniraliseerd water en glycerine. De glycerine zorgt ervoor dat tool en spiegel minder goed aan elkaar blijven plakken.
+
+Ik heb de hele avond geslepen, wat ongeveer twee uur is, en halverwege de spiegel en tool een keer schoongemaakt. Ik gebruik de rechte slag en tussendoor een figuur acht slag. Dit ging eigenlijk tot het einde goed, en toen opeens voelde ik iets. Zodra ik iets voelde ben ik gestopt en heb ik tool en spiegel schoongemaakt omdat het toch al het einde van de avond was. Bij inspectie bleek dat er inderdaad een flink kras over de spiegel stond. Deze ga ik de volgende keer maar weer repareren hopelijk!
