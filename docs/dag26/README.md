@@ -1,0 +1,4 @@
+# Meevaler
+Ik heb Bram de kras laten inspecteren omdat hij er vorige week niet was en volgens hem viel het mee, lekker doorgaan met dezelfde oplossing en dan komt het goed. Dus ik begin met slijpen met dezelfde oplossing als vorige week. Na ongeveer een half uur inspecteer ik de spiegel weer en het bleek dat de kras al volledig weg is. Bram keek ook en gaf aan dat ik met het volgende poeder kon beginnen. Dus spiegel en tool helemaal netjes schoongemaakt en natuurlijk ook de tafel. Bram maakt ondertussen een nieuwe oplossing, dit keer met 5 micron poeder.
+
+De rest van de avond met deze oplossing geslepen en dat ging helemaal goed. Aan het eind van de avond de spiegel geinspecteerd en nog een paar kleine putjes gevonden welke dit poeder nog niet verwijderd heeft. Ik gok dat volgende keer ook weer met een nieuw poeder begonnen kan worden.

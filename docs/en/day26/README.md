@@ -1,0 +1,4 @@
+# Lucky
+I've let Bram inspect the scratch because he wasn't there last week and according to him it wasn't severe so I can just continue with the same solution. So I started with grinding and about half an hour I did another inspection and the scratch was already completely gone. Bram checked as well and said I could continue with a new powder. So I started cleaning the mirror and tool as well as the table I'm working on. In the meanwhile Bram made a new solution with the 5 micron powder.
+
+The rest of the evening I grinded with this new solution and that went very well. At the end of the evening I inspected the mirror again and found a couple of small pits left by the previous solution. My estimate is that these are removed easily the next time and that next time I can start with a new powder.

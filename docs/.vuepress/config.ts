@@ -128,6 +128,10 @@ module.exports = {
                 text: 'Weer Een Kras',
                 link: '/dag25',
               },
+              {
+                text: 'Meevaller',
+                link: '/dag26'
+              },
             ],
           },
         ],
@@ -242,6 +246,10 @@ module.exports = {
               {
                 text: 'Another Scratch',
                 link: '/en/day25',
+              },
+              {
+                text: 'Lucky',
+                link: '/en/day26',
               },
             ],
           },
