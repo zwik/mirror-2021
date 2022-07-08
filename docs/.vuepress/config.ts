@@ -136,6 +136,10 @@ module.exports = {
                 text: 'Buiten',
                 link: '/dag27',
               },
+              {
+                text: 'Een Stapje Terug',
+                link: '/dag28',
+              },
             ],
           },
         ],
@@ -258,6 +262,10 @@ module.exports = {
               {
                 text: 'Outside',
                 link: '/en/day27',
+              },
+              {
+                text: 'A Step Back',
+                link: '/en/day28',
               },
             ],
           },
