@@ -1,0 +1,4 @@
+# A Step Closer To Polishing
+At the end of last week the surface of the mirror looked perfect so today I can continue without first correcting pits or scratches. Today I started with a powder of nine micron. I did this for about an hour and after checking there were a couple of small pits. I corrected this in three steps. First a fifteen minutes, then fifteen minutes again and then thirty minutes. So after two hours grinding with nine micron powder the mirror looked perfect again.
+
+After grinding I looked at the mirror into the light. I used the reflection of a fluorescent lamp and then looked at the edge of the mirror. Measuring with a dial indicated is not adviced now because it can be contaminated with other powders. By looking at the edges you can check if the reflected light doesn't make any weird angles. The mirror did not make any weird angles so everything is perfect!

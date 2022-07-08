@@ -1,0 +1,4 @@
+# Een Stap Dichter Bij Polijsten
+Eind vorige week zag het oppervlak er perfect uit dus vandaag kon ik lekker verder zonder eerst putjes of krasjes to moeten corrigeren. Vandaag kan ik dus lekker aan de slag met negen micron poeder. Dit heb ik zo'n uur gedaan en het bleek dat er een paar kleine putjes te vinden zijn. Dit heb ik in drie stappen gecorigeerd. Eerst een kwartier slijpen, vervolgens nog een kwartier, en daarna een half uur. Dus na praktisch twee uur slijpen met negen micron poeder zag de spiegel er weer perfect uit.
+
+Na het slijpen heb ik de spiegel bijna letterlijk tegen het licht gehouden en bekeken hoe de randen zijn. Meten met de meetklok is nu lastig omdat deze grof poeder kan bevatten. Door naar de randen te kijken en te kijken of het licht van bijvoorbeeld een TL balk geen vreemde hoeken maakt is te controleren of de rand van die spiegel nog goed is. En dat blijkt, die spiegel ziet er perfect uit!

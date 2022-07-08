@@ -140,6 +140,10 @@ module.exports = {
                 text: 'Een Stapje Terug',
                 link: '/dag28',
               },
+              {
+                text: 'Een Stap Dichter Bij Polijsten',
+                link: '/dag29',
+              },
             ],
           },
         ],
@@ -266,6 +270,10 @@ module.exports = {
               {
                 text: 'A Step Back',
                 link: '/en/day28',
+              },
+              {
+                text: 'A Step Closer To Polishing',
+                link: '/en/day29',
               },
             ],
           },
