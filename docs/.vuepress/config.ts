@@ -130,7 +130,11 @@ module.exports = {
               },
               {
                 text: 'Meevaller',
-                link: '/dag26'
+                link: '/dag26',
+              },
+              {
+                text: 'Buiten',
+                link: '/dag27',
               },
             ],
           },
@@ -250,6 +254,10 @@ module.exports = {
               {
                 text: 'Lucky',
                 link: '/en/day26',
+              },
+              {
+                text: 'Outside',
+                link: '/en/day27',
               },
             ],
           },

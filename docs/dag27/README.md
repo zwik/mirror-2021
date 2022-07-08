@@ -1,0 +1,2 @@
+# Buiten
+Vandaag was Yigal mee omdat zijn bestelling bij Bram was geleverd. Ik ben buiten gaan staan omdat het binnen druk was en omdat het heerlijk weer is buiten. Helaas beviel me dit niet en ben redelijk snel gestopt omdat het te lawaaierig was en er allerlei deeltjes door de lucht vliegen.

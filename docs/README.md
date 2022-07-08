@@ -30,3 +30,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Kras Reparatie              | [Dag 24](./dag24/)            |
 | Weer Een Kras               | [Dag 25](./dag25/)            |
 | Meevaller                   | [Dag 26](./dag26/)            |
+| Buiten                      | [Dag 27](./dag27/)            |

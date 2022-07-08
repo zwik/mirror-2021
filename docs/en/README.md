@@ -30,3 +30,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Scratch Removal                  | [Day 24](./day24/)            |
 | Another Scratch                  | [Day 25](./day25/)            |
 | Lucky                            | [Day 26](./day26/)            |
+| Outside                          | [Day 27](./day27/)            |
