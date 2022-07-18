@@ -33,3 +33,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Buiten                         | [Dag 27](./dag27/)            |
 | Een Stapje Terug               | [Dag 28](./dag28/)            |
 | Een Stap Dichter Bij Polijsten | [Dag 29](./dag29/)            |
+| Geen Problemen                 | [Dag 30](./dag30/)            |

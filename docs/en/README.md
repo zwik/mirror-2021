@@ -33,3 +33,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Outside                          | [Day 27](./day27/)            |
 | A Step Back                      | [Day 28](./day28/)            |
 | A Step Closer To Polishing       | [Day 29](./day29/)            |
+| No Problems                      | [Day 30](./day30/)            |

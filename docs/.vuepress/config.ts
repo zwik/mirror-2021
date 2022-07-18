@@ -144,6 +144,10 @@ module.exports = {
                 text: 'Een Stap Dichter Bij Polijsten',
                 link: '/dag29',
               },
+              {
+                text: 'Geen Problemen',
+                link: '/dag30',
+              },
             ],
           },
         ],
@@ -274,6 +278,10 @@ module.exports = {
               {
                 text: 'A Step Closer To Polishing',
                 link: '/en/day29',
+              },
+              {
+                text: 'No Problems',
+                link: '/en/day30',
               },
             ],
           },

@@ -1,0 +1,2 @@
+# No Problems
+Today was a good day, there were no setbacks. It was great to just grind, today with five micron poweder. De strokes were the same as previous times straight and figure eights to keep the shape correctly. After about one hour and thirty minutes I checked the mirror and found a couple of small pits. I continues for thirty minutes and then checked again. The pits are getting smaller and some were gone. Unfortunately I couldn't finish this powder today but it's looking great for the next time. See you next week!
