@@ -148,6 +148,10 @@ module.exports = {
                 text: 'Geen Problemen',
                 link: '/dag30',
               },
+              {
+                text: 'Lekker Geslepen',
+                link: '/dag31',
+              },
             ],
           },
         ],
@@ -282,6 +286,10 @@ module.exports = {
               {
                 text: 'No Problems',
                 link: '/en/day30',
+              },
+              {
+                text: 'Pleasant Grinding',
+                link: '/en/day31',
               },
             ],
           },
