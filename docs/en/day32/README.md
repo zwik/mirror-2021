@@ -1,0 +1,2 @@
+# Just A Couple Of Pits
+Today it was again a pleasure to grind on three micron. I only grinded for about an hour and after inspection there were only a couple of little pits visible. So next time I shall continue with the same powder.

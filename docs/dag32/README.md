@@ -1,0 +1,2 @@
+# Nog Een Paar Putjes
+Vandaag weer lekker geslepen op drie micron. Ik heb maar een klein uurtje geslepen en na inspectie bleek dat dat er nog een paar kleintje putjes te zien zijn. De volgende keer dus lekker doorslijpen met hetzelfde poeder.
