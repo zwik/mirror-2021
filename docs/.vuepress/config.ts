@@ -1,4 +1,4 @@
-const { defaultTheme, viteBundler } = require('vuepress')
+import { defaultTheme, viteBundler } from 'vuepress'
 
 module.exports = {
   locales: {
@@ -152,6 +152,10 @@ module.exports = {
                 text: 'Lekker Geslepen',
                 link: '/dag31',
               },
+              {
+                text: 'Nog Een Paar Putjes',
+                link: '/dag32'
+              },
             ],
           },
         ],
@@ -290,6 +294,10 @@ module.exports = {
               {
                 text: 'Pleasant Grinding',
                 link: '/en/day31',
+              },
+              {
+                text: 'Just A Couple Of Pits',
+                link: '/en/day32',
               },
             ],
           },
