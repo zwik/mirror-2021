@@ -156,6 +156,10 @@ module.exports = {
                 text: 'Nog Een Paar Putjes',
                 link: '/dag32'
               },
+              {
+                text: 'Drie Micron Klaar',
+                link: '/dag33',
+              },
             ],
           },
         ],
@@ -298,6 +302,10 @@ module.exports = {
               {
                 text: 'Just A Couple Of Pits',
                 link: '/en/day32',
+              },
+              {
+                text: 'Three Micron Done',
+                link: '/en/day33/',
               },
             ],
           },

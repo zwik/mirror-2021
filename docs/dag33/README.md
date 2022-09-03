@@ -1,0 +1,4 @@
+# Drie Micron Klaar
+Vorige keer waren en nog een paar kleine putjes over dus vandaag lekker doorgegaan met drie micron poeder. Johnny heeft een nieuwe oplossing gemaakt waarna ik met tool op de spiegel twee wets heb gedaan. Daarna heb ik twee wets met die spiegel boven op de tool gedaan. Aan het einde hoorde ik iets piepen dus ben toen meteen gestopt. Bij inspecte bleek er gelukkig niks te zien. Johnny vertelde dat dit zou kunnen komen omdat de spiegel mooi sferisch is, laten we daar maar vanuit gaan dan! De putjes die we vorige keer zagen zijn nu ook weg.
+
+Volgende keer ga ik zeer waarschijnlijk met vilt aan de slag. Tot de volgende keer!

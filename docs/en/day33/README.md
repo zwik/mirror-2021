@@ -1,0 +1,4 @@
+# Three Micron Done
+Last time there were still a couple of small pits left so today I continued with three micron powder. Johnny made me a new solution after which I started grinding two wets with the tool on top of the mirror. After that I did two wets with the mirror on top of the tool. At the end I heard some peeping so i stopped immediately. While doing the inspection I couldn't find anything wrong. Johnny told me this sometimes happens with the mirror is perfectly spherical, so lets assume that's true! The pits we saw last time were also gone.
+
+Next time I will probably work with felt. Till next time!
