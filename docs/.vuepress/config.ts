@@ -160,6 +160,10 @@ module.exports = {
                 text: 'Drie Micron Klaar',
                 link: '/dag33',
               },
+              {
+                text: 'Vilt Plakken',
+                link: '/dag34',
+              },
             ],
           },
         ],
@@ -305,7 +309,11 @@ module.exports = {
               },
               {
                 text: 'Three Micron Done',
-                link: '/en/day33/',
+                link: '/en/day33',
+              },
+              {
+                text: 'Stick On Felt',
+                link: '/en/day34',
               },
             ],
           },

@@ -37,3 +37,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Lekker Geslepen                | [Dag 31](./dag31/)            |
 | Nog Een Paar Putjes            | [Dag 32](./dag32/)            |
 | Drie Micron Klaar              | [Dag 33](./dag33/)            |
+| Vilt Plakken                   | [Dag 34](./dag34/)            |
