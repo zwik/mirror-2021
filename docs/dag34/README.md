@@ -7,10 +7,10 @@ Als het vilt goed ligt kunnen we beginnen met plakken. Het vilt is voorzien van 
 ![Tool vol vilt](/images/IMG_7009.jpg)
 
 Zodra al het vilt netjes geplakt is word de spiegel erboven gelegd met wat gewicht zodat het vilt goed plakt aan de tool.
-![Vilt proef voor plakken](/images/IMG_7010.jpg)
+![Spiegel op tool met gewicht](/images/IMG_7010.jpg)
 
 De spiegel ziet er op dit moment zo uit.
-![Vilt proef voor plakken](/images/IMG_7011.jpg)
+![Spiegel voor slijpen met vilt](/images/IMG_7011.jpg)
 
 Nadat alles gecontroleerd is gaan we door met slijpen, wederom met 3 micron poeder wat effectief 1,5 micron word vanwege het vilt. Het vilt is ook een soort van verzekering, de kans dat er krassen komen is nu kleiner.
 
