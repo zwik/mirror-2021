@@ -1,0 +1,4 @@
+# 2000!
+Vandaag mag ik met poeder 2000 beginnen. Dit is het laatste poeder voor het polijsten. Bram en Johnny hebben de oude vilten al van de tool gehaald en deze beplakt met nieuwe blauwe vilten. Het verschil met de witte vilten van de vorige keer is dat deze naast anders van kleur zijn, ook veel zachter zijn.
+
+Omdat Bram en Johnny alles al hebben voorbereid kan ik eigenlijk meteen verder met slijpen. Ik heb de avond staan slijpen en heb aan het einde de spiegel geinspecteerd en gezien dat in het midden al weinig structuur meer is te herkennen. Dit lijkt dus al een beetje op polijsten! Voor de rest heb ik geen gekke dingen gezien.

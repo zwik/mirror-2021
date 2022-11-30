@@ -168,6 +168,10 @@ module.exports = {
                 text: 'Verder Met Vilt',
                 link: '/dag35',
               },
+              {
+                text: '2000!',
+                link: '/dag36',
+              },
             ],
           },
         ],
@@ -322,6 +326,10 @@ module.exports = {
               {
                 text: 'Continue With Felt',
                 link: '/en/day35',
+              },
+              {
+                text: '2000!',
+                link: '/en/day36',
               },
             ],
           },
