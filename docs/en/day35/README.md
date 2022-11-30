@@ -1,0 +1,2 @@
+# Continue With Felt
+Today I continue with gring with felt, this time I should do more figure eights and put the tool on top of the mirror. I make sure the grinding isn't to dry. Today Bram is not available so we didn't measure the mirror.

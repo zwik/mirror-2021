@@ -38,3 +38,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Just A Couple Of Pits            | [Day 32](./day32/)            |
 | Three Micron Done                | [Day 33](./day33/)            |
 | Sticking On Felt                 | [Day 34](./day34/)            |
+| Continue With Felt               | [Day 35](./day35/)            |

@@ -164,6 +164,10 @@ module.exports = {
                 text: 'Vilt Plakken',
                 link: '/dag34',
               },
+              {
+                text: 'Verder Met Vilt',
+                link: '/dag35',
+              },
             ],
           },
         ],
@@ -314,6 +318,10 @@ module.exports = {
               {
                 text: 'Stick On Felt',
                 link: '/en/day34',
+              },
+              {
+                text: 'Continue With Felt',
+                link: '/en/day35',
               },
             ],
           },
