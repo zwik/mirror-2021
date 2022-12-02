@@ -6,4 +6,4 @@ I did correct the shape for about half an hour untill it got better. After that 
 When I was done we tested the mirror with a Ronchi test. We noticed that the mirror isn't corrected yet but also noticed a dropped off edge. I can fix that by using very short strokes and turn regularly. I did that for about an hour.
 
 After I was done with the short strokes we tested the mirror again and noticed that it got better. There's still a dropped off edge and the mirror still isn't spherical but it's going into the right direction. You can see the dropped off edge because of the little hooks at the end of the lines that point outwards. Because the lines aren't straight you can tell the mirror isn't spherical yet. Below you can find a picture of how it currectly looks.
-![Ronchi](/images/c09e48f1-d37a-44fc-9fc3-ff086b0b783d.JPG)
+![Ronchi](/images/c09e48f1-d37a-44fc-9fc3-ff086b0b783d.jpg)
