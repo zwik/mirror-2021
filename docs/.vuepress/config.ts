@@ -180,6 +180,10 @@ module.exports = {
                 text: 'Ronchi',
                 link: '/dag38',
               },
+              {
+                text: 'Corrigeren',
+                link: '/dag39',
+              },
             ],
           },
         ],
@@ -346,6 +350,10 @@ module.exports = {
               {
                 text: 'Ronchi',
                 link: '/en/day38',
+              },
+              {
+                text: 'Correcting',
+                link: '/en/day39',
               },
             ],
           },
