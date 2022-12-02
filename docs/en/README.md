@@ -41,3 +41,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Continue With Felt               | [Day 35](./day35/)            |
 | 2000!                            | [Day 36](./day36/)            |
 | Creating A Pitch Slab            | [Day 37](./day37/)            |
+| Ronchi                           | [Day 38](./day38/)            |

@@ -1,0 +1,4 @@
+# Ronchi
+Vandaag gaan we lekker polijsten. De slagen zijn eigenlijk hetzelfde als bij het slijpen, tot ongeveer 1/3 over de tool en in plaats van slijppoeder gebruiken we cerium oxide wat we met enige regelmaat verversen samen met wat water en regelmatig draaien en achtjes tussendoor. Vandaag met spiegel op de tool.
+
+Dit heb ik de hele avond gedaan en aan het eind van de avond hebben we de spiegel op de testbank gelegd en een Ronchi test gedaan. Wanneer we de Ronchi bekijken zien we een soort van zandloper vorm in de lijnen. Dit betekend dat de spiegel nog niet sferisch is en te diep is. Dit zal ik de volgende keer moeten herstellen door met de tool boven op de spiegel te polijsten.

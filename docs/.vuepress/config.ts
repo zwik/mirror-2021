@@ -176,6 +176,10 @@ module.exports = {
                 text: 'Pekbodom Maken',
                 link: '/dag37',
               },
+              {
+                text: 'Ronchi',
+                link: '/dag38',
+              },
             ],
           },
         ],
@@ -338,6 +342,10 @@ module.exports = {
               {
                 text: 'Creating A Pitch Slab',
                 link: '/en/day37',
+              },
+              {
+                text: 'Ronchi',
+                link: '/en/day38',
               },
             ],
           },
