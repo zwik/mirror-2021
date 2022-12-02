@@ -172,6 +172,10 @@ module.exports = {
                 text: '2000!',
                 link: '/dag36',
               },
+              {
+                text: 'Pekbodom Maken',
+                link: '/dag37',
+              },
             ],
           },
         ],
@@ -330,6 +334,10 @@ module.exports = {
               {
                 text: '2000!',
                 link: '/en/day36',
+              },
+              {
+                text: 'Creating A Pitch Slab',
+                link: '/en/day37',
               },
             ],
           },

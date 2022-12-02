@@ -40,3 +40,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Vilt Plakken                   | [Dag 34](./dag34/)            |
 | Verder Met Vilt                | [Dag 35](./dag35/)            |
 | 2000!                          | [Dag 36](./dag36/)            |
+| Pekbodom Maken                 | [Dag 37](./dag37/)            |
