@@ -184,6 +184,10 @@ module.exports = {
                 text: 'Corrigeren',
                 link: '/dag39',
               },
+              {
+                text: 'Meer Corrigeren',
+                link: '/dag40',
+              },
             ],
           },
         ],
@@ -354,6 +358,10 @@ module.exports = {
               {
                 text: 'Correcting',
                 link: '/en/day39',
+              },
+              {
+                text: 'More Correcting',
+                link: '/en/day40',
               },
             ],
           },

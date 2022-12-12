@@ -43,3 +43,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Pekbodom Maken                 | [Dag 37](./dag37/)            |
 | Ronchi                         | [Dag 38](./dag38/)            |
 | Corrigeren                     | [Dag 39](./dag39/)            |
+| Meer Corrigeren                | [Dag 40](./dag40/)            |

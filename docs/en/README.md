@@ -43,3 +43,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Creating A Pitch Slab            | [Day 37](./day37/)            |
 | Ronchi                           | [Day 38](./day38/)            |
 | Correcting                       | [Day 39](./day39/)            |
+| More Correcting                  | [Day 40](./day40/)            |
