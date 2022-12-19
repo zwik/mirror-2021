@@ -188,6 +188,10 @@ module.exports = {
                 text: 'Meer Corrigeren',
                 link: '/dag40',
               },
+              {
+                text: 'Een Kras',
+                link: '/dag41',
+              },
             ],
           },
         ],
@@ -362,6 +366,10 @@ module.exports = {
               {
                 text: 'More Correcting',
                 link: '/en/day40',
+              },
+              {
+                text: 'A Scratch',
+                link: '/en/day41',
               },
             ],
           },

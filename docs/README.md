@@ -44,3 +44,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Ronchi                         | [Dag 38](./dag38/)            |
 | Corrigeren                     | [Dag 39](./dag39/)            |
 | Meer Corrigeren                | [Dag 40](./dag40/)            |
+| Een Kras                       | [Dag 41](./dag41/)            |
