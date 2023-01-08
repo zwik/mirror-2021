@@ -192,6 +192,10 @@ module.exports = {
                 text: 'Een Kras',
                 link: '/dag41',
               },
+              {
+                text: 'Verder Polijsten',
+                link: '/dag42',
+              },
             ],
           },
         ],
@@ -370,6 +374,10 @@ module.exports = {
               {
                 text: 'A Scratch',
                 link: '/en/day41',
+              },
+              {
+                text: 'Continue Polishing',
+                link: '/en/day42',
               },
             ],
           },

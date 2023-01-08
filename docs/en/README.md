@@ -45,3 +45,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Correcting                       | [Day 39](./day39/)            |
 | More Correcting                  | [Day 40](./day40/)            |
 | A Scratch                        | [Day 41](./day41/)            |
+| Continue Polishing               | [Dag 42](./day42/)            |
