@@ -204,6 +204,10 @@ module.exports = {
                 text: 'Dit Voelt Raar',
                 link: '/dag44',
               },
+              {
+                text: 'Polijsten Bijna Klaar?',
+                link: '/dag45',
+              },
             ],
           },
         ],
@@ -394,6 +398,10 @@ module.exports = {
               {
                 text: 'This Feels Strange',
                 link: '/en/day44',
+              },
+              {
+                text: 'Polishing Almost Done?',
+                link: '/en/day45',
               },
             ],
           },

@@ -1,0 +1,4 @@
+# Polishing Almost Done?
+This week I started with new scratches on the pitch tool. The scratches improve the polishing time. Before I started I of course cleaned everything. After about 1.5 hours of polishing we tested the mirror again. First visually and that looked great. I noticed that even on the edge there are very little pits left. I can't tell very accurately how much time is left but I don't think it will take a long time anymore.
+
+The Ronchi showed us less pleasant news. My strokes are too long which altered the shape of the mirror a bit. Next time I should make shorter strokes to repair that. The rest looked good.

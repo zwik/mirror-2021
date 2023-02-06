@@ -1,0 +1,4 @@
+# Polijsten Bijna Klaar?
+Deze week begonnen met nieuwe krassen op de pek tool. De krassen zorgen ervoor dat het polijsten sneller gaat. Voor ik begon heb ik natuurlijk weer alles goed schoon gemaakt. Na ongeveer 1,5 uur polijsten hebben we de spiegel weer getesten en eerst visueel bekeken. Bij het visueel bekijken van de spiegel blijkt dat ik op de rand van de spiegel al vrij weinig putjes meer heb! Ik kan niet goed inschatten hoelang ik nog moet polijsten maar ik vermoed niet heel lang meer!
+
+De Ronchi liet helaas iets minder goed nieuws zien, ik heb iets te lange slagen gemaakt waardoor die spiegel uit vorm is. Maar dat is de volgende keer weer eenvoudig te repareren door kortere slagen te maken. De rest zag er prima uit.
