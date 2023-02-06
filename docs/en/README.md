@@ -47,3 +47,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | A Scratch                        | [Day 41](./day41/)            |
 | Continue Polishing               | [Day 42](./day42/)            |
 | Keep Going                       | [Day 43](./day43/)            |
+| This Feels Strange               | [Day 44](./day44/)            |

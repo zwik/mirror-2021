@@ -200,6 +200,10 @@ module.exports = {
                 text: 'Lekker Doorgaan',
                 link: '/dag43',
               },
+              {
+                text: 'Dit Voelt Raar',
+                link: '/dag44',
+              },
             ],
           },
         ],
@@ -386,6 +390,10 @@ module.exports = {
               {
                 text: 'Keep Going',
                 link: '/en/day43',
+              },
+              {
+                text: 'This Feels Strange',
+                link: '/en/day44',
               },
             ],
           },
