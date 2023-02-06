@@ -1,0 +1,2 @@
+# Lekker Doorgaan
+Deze week ben ik weer lekker doorgegaan en heb eigenlijk niks bijzonders te melden. Ik heb deze avond lekker staan polijsten. Bij inspectie bleek dat ik vooruitgang had gemaakt en er waren weer minder putjes te zien en ook op de Ronchi zag het er goed uit.

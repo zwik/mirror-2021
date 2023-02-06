@@ -1,0 +1,2 @@
+# Keep Going
+This week I continued nicely and haven't much to discuss about. I just enjoyed the polishing. At inspection I noticed that I made a little bit of progress as there were less pits again. Also on the Ronchi there were no anomalities.

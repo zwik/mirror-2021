@@ -46,3 +46,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Meer Corrigeren                | [Dag 40](./dag40/)            |
 | Een Kras                       | [Dag 41](./dag41/)            |
 | Verder Polijsten               | [Dag 42](./dag42/)            |
+| Lekker Doorgaan                | [Dag 43](./dag43/)            |

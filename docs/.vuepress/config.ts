@@ -196,6 +196,10 @@ module.exports = {
                 text: 'Verder Polijsten',
                 link: '/dag42',
               },
+              {
+                text: 'Lekker Doorgaan',
+                link: '/dag43',
+              },
             ],
           },
         ],
@@ -378,6 +382,10 @@ module.exports = {
               {
                 text: 'Continue Polishing',
                 link: '/en/day42',
+              },
+              {
+                text: 'Keep Going',
+                link: '/en/day43',
               },
             ],
           },
