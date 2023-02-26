@@ -212,6 +212,10 @@ module.exports = {
                 text: 'Iets Te Ver',
                 link: '/dag46',
               },
+              {
+                text: 'Weer Bijna Goed',
+                link: '/dag47',
+              },
             ],
           },
         ],
@@ -410,6 +414,10 @@ module.exports = {
               {
                 text: 'A Little Too Far',
                 link: '/en/day46',
+              },
+              {
+                text: 'Almost Good Again',
+                link: '/en/day47',
               },
             ],
           },

@@ -1,0 +1,2 @@
+# Almost Good Again
+Today I will continue correcting the mirror. When doing the strokes there's only about 1cm of overlap, this with a short W-stroke. After about an hour of polishing we tested again with the Ronchi and it's already looking better. I'm about 1 cm till i'm at the edge of the mirror. After that I need to mirror spherical again.

@@ -1,0 +1,2 @@
+# Weer Bijna Goed
+Vandaag ga ik verder met het corrigeren. Ik heb slechts 1 cm overhang aan beide kanten, met een korte W-slag. Na ongeveer een uur polijsten hebben we de spiegel weer op de Ronchi gezet en het ziet er al een stuk beter. Nog ongeveer een kleine cm tot de rand weer goed is. Daarna moet de spiegel weer terug sferisch gemaakt worden.
