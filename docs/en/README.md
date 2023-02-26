@@ -49,3 +49,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Keep Going                       | [Day 43](./day43/)            |
 | This Feels Strange               | [Day 44](./day44/)            |
 | Polishing Almost Done?           | [Day 45](./day45/)            |
+| A Little Too Far                 | [Day 46](./day46/)            |

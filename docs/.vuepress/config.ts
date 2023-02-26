@@ -208,6 +208,10 @@ module.exports = {
                 text: 'Polijsten Bijna Klaar?',
                 link: '/dag45',
               },
+              {
+                text: 'Iets Te Ver',
+                link: '/dag46',
+              },
             ],
           },
         ],
@@ -402,6 +406,10 @@ module.exports = {
               {
                 text: 'Polishing Almost Done?',
                 link: '/en/day45',
+              },
+              {
+                text: 'A Little Too Far',
+                link: '/en/day46',
               },
             ],
           },
