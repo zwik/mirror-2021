@@ -1,0 +1,6 @@
+# Rand Gecorrigeerd
+De vorige keer was ik al ver tot de rand gecorrigeerd maar nog niet helemaal. Om tot de rand te komen moet ik vandaag dus verder corrigeren. Ik maak nog steeds korte slagen van ongeveer 1cm overhang in een W-slag. Dit heb ik ongeveer een uur gedaan en ben toen gaan meten.
+
+Na de spiegel op de testbank gezet te hebben heb ik de Ronchi achter het focus punt gezet. Hier bleek voornamelijk dat ik nu een bult in het centrum van het spiegel heb, maar dat is een resultaat van de korte slag. Door het ronchi rooster weg te halen is dan goed te zien dat ik zo goed als op de rand heb gecorrigeerd en dat is goed. Goed genoeg om nu de spiegel weer sferisch te maken, de bult weghalen dus.
+
+Voordat ik de spiegel terug sferisch kan maken moet ik de pekbodem weer bewerken door nieuwe krassen te zetten. De pekbodem is nog net goed genoeg om de spiegel terug sferisch te krijgen. Als de spiegel weer sferisch is moet er een nieuwe pekbodem gemaakt worden om vervolgens te gaan parapoliseren.

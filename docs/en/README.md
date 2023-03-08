@@ -51,3 +51,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Polishing Almost Done?           | [Day 45](./day45/)            |
 | A Little Too Far                 | [Day 46](./day46/)            |
 | Almost Good Again                | [Day 47](./day47/)            |
+| Edge Corrected                   | [Day 48](./day48/)            |

@@ -51,3 +51,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Polijsten Bijna Klaar?         | [Dag 45](./dag45/)            |
 | Iets Te Ver                    | [Dag 46](./dag46/)            |
 | Weer Bijna Goed                | [Dag 47](./dag47/)            |
+| Rand Gecorrigeerd              | [Dag 48](./dag48/)            |

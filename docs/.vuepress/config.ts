@@ -216,6 +216,10 @@ module.exports = {
                 text: 'Weer Bijna Goed',
                 link: '/dag47',
               },
+              {
+                text: 'Rand Gecorrigeerd',
+                link: '/dag48',
+              },
             ],
           },
         ],
@@ -418,6 +422,10 @@ module.exports = {
               {
                 text: 'Almost Good Again',
                 link: '/en/day47',
+              },
+              {
+                text: 'Edge Corrected',
+                link: '/en/day48',
               },
             ],
           },
