@@ -52,3 +52,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | A Little Too Far                 | [Day 46](./day46/)            |
 | Almost Good Again                | [Day 47](./day47/)            |
 | Edge Corrected                   | [Day 48](./day48/)            |
+| Back To Spherical                | [Day 49](./day49/)            |

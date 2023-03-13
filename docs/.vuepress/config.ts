@@ -220,6 +220,10 @@ module.exports = {
                 text: 'Rand Gecorrigeerd',
                 link: '/dag48',
               },
+              {
+                text: 'Sferisch Maken',
+                link: '/dag49',
+              },
             ],
           },
         ],
@@ -426,6 +430,10 @@ module.exports = {
               {
                 text: 'Edge Corrected',
                 link: '/en/day48',
+              },
+              {
+                text: 'Back To Spherical',
+                link: '/en/day49',
               },
             ],
           },
