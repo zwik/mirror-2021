@@ -53,3 +53,4 @@ Hier ga ik mijn avonturen delen van hoe ik een 10 inch spiegel ga slijpen. Klik 
 | Weer Bijna Goed                | [Dag 47](./dag47/)            |
 | Rand Gecorrigeerd              | [Dag 48](./dag48/)            |
 | Sferisch Maken                 | [Dag 49](./dag49/)            |
+| Doorgaan                       | [Dag 50](./dag50/)            |

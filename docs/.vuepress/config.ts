@@ -224,6 +224,10 @@ module.exports = {
                 text: 'Sferisch Maken',
                 link: '/dag49',
               },
+              {
+                text: 'Doorgaan',
+                link: '/dag50',
+              },
             ],
           },
         ],
@@ -434,6 +438,10 @@ module.exports = {
               {
                 text: 'Back To Spherical',
                 link: '/en/day49',
+              },
+              {
+                text: 'Continue',
+                link: '/en/day50',
               },
             ],
           },
