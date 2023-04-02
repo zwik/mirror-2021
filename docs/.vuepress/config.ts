@@ -228,6 +228,10 @@ module.exports = {
                 text: 'Doorgaan',
                 link: '/dag50',
               },
+              {
+                text: 'Kleine Pekbodem',
+                link: '/dag51',
+              },
             ],
           },
         ],
@@ -442,6 +446,10 @@ module.exports = {
               {
                 text: 'Continue',
                 link: '/en/day50',
+              },
+              {
+                text: 'Small Pitch Slab',
+                link: '/en/day51',
               },
             ],
           },

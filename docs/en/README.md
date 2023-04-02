@@ -54,3 +54,4 @@ Here I will share my adventures of making a 10 inch mirror. Click on the links b
 | Edge Corrected                   | [Day 48](./day48/)            |
 | Back To Spherical                | [Day 49](./day49/)            |
 | Continue                         | [Day 50](./day50/)            |
+| Small Pitch Slab                 | [Day 51](./day51/)            |
